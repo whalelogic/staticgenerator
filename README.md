@@ -18,6 +18,9 @@ It reads blog posts from a JSON file, converts Markdown content into HTML, and g
 
 ## 🏗️ Directory Structure
 
+
+
+```plaintext
 .
 ├── main.go
 ├── posts.json
@@ -28,7 +31,7 @@ It reads blog posts from a JSON file, converts Markdown content into HTML, and g
 └── public/
 ├── index.html
 └── using-finance-apis.html
-
+```
 
 ---
 
